@@ -1,1 +1,3 @@
-# codepath-interview-prep-work
+# Codepath's Prep Interview Course
+
+André Oriani
